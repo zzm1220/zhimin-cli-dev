@@ -1,6 +1,6 @@
 {
   "name": "@zhimin-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "zhimin-cli",
   "keywords": [
     "cli"
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@zhimin-cli-dev/utils": "^1.0.3"
+    "@zhimin-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "1a9cdf842ff9cb355daefaa388a7b04749cd3a91"
 }

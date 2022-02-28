@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "@zhimin-cli-dev/utils": "^1.0.3"
-  }
+  },
+  "gitHead": "1a9cdf842ff9cb355daefaa388a7b04749cd3a91"
 }

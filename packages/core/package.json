@@ -13,6 +13,9 @@
     "lib": "lib",
     "test": "__tests__"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib"
   ],
@@ -22,5 +25,5 @@
   "dependencies": {
     "@zhimin-cli-dev/utils": "^1.0.4"
   },
-  "gitHead": "1a9cdf842ff9cb355daefaa388a7b04749cd3a91"
+  "gitHead": "1207a3b6336e19d4ad7585745a86a8957cd18443"
 }
